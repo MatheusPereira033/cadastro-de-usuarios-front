@@ -1,7 +1,6 @@
 # CADASTRO DE USUÁRIOS EM REACT E JS
 <img src="https://github.com/MatheusPereira033/cadastro_de_usuarios-React_e_JS/blob/main/Apresenta%C3%A7%C3%A3o%20Home%20Cadastro%20De%20Usu%C3%A1rio.gif?raw=true">
 <p>O projeto trata-se de um desenvolvimento web para cadastro e exclusão de usuários. Nesse projeto o usuário pode criar novos usuários que automaticamente vão ser salvos em um banco de dados e serem mostrados na tela. Além disso o usuário pode excluir os usuários também, deletando automaticamente do nosso banco de dados.</p>
-Verifique o Projeto: https://matheuspereira033.github.io/hamburgueria-JS-HTML-CSS-TailwindCSS/
 <br>
 <h2>:dart: Recursos</h2>
 :heavy_check_mark: Criação da API através do Node.js e sua biblioteca Express.js;<br>
